@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stop">
+        <item>"ชลบุรี"</item>
+        <item>"ระยอง"</item>
+        <item>"ปทุมธานี"</item>
+        <item>"นครนายก"</item>
+        <item>"ราชบุรี"</item>
+        <item>"นครปฐม"</item>
+        <item>"กาญจนบุรี"</item>
+        <item>"สุพรรณบุรี"</item>
+        <item>"สมุทรสาคร"</item>
+        <item>"หัวหิน"</item>c
+        <item>"โคราช"</item>
+        <item>"ลพบุรี"</item>
+        <item>"สระบุรี"</item>
+        <item>"สระแก้ว"</item>
+        <item>"จันทบุรี"</item>
+
+    </string-array>
+
+
+    <string-array name="type">
+        <item>"บุคคลทั่วไป"</item>
+        <item>"ห้างหุ้นส่วนสามัญ"</item>
+        <item>"ห้างหุ้นส่วนจำกัด"</item>
+        <item>"บริษัทจำกัด"</item>
+        <item>"สหกรณ์"</item>
+        <item>"องค์การรัฐบาล"</item>
+    </string-array>
+
+    <string-array name="P0">
+        <item>"เมืองชลบุรี"</item>
+        <item>"ศรีราชา"</item>
+        <item>"บางละมุง"</item>
+        <item>"พัทยา"</item>
+        <item>"สัตหีบ"</item>
+    </string-array>
+
+    <string-array name="P1">
+        <item>"เมืองระยอง"</item>
+        <item>"บ้านฉาง"</item>
+        <item>"ปลวกแดงี"</item>
+        <item>"นิคมพัฒนา"</item>
+        <item>"เมืองชลบุรี"</item>
+        <item>"พัทยา"</item>
+    </string-array>
+
+    <string-array name="P2">
+        <item>"เมืองปทุมธานี"</item>
+        <item>"คลองหลวง"</item>
+        <item>"ธัญบุรี"</item>
+        <item>"ลำลูกกา"</item>
+        <item>"รังสิต"</item>
+    </string-array>
+
+    <string-array name="P3">
+        <item>"เมืองนครนายก"</item>
+        <item>"ปากพลี"</item>
+        <item>"รังสิต"</item>
+    </string-array>
+
+    <string-array name="P4">
+        <item>"เมืองราชบุรี"</item>
+        <item>"ดำเนินสะดวก"</item>
+        <item>"บางแพ"</item>
+        <item>"โพธาราม"</item>
+        <item>"สวนผึ้ง"</item>
+    </string-array>
+
+    <string-array name="P5">
+        <item>"เมืองนครปฐม"</item>
+        <item>"พุทธมณฑล"</item>
+        <item>"นครชัยศรี"</item>
+        <item>"ศาลายา"</item>
+    </string-array>
+
+    <string-array name="P6">
+        <item>"ศรีเมือง"</item>
+        <item>"โลตัส"</item>
+        <item>"บิ๊กซี ราชบุรี"</item>
+        <item>"บางแพ"</item>
+        <item>"หนองโพ"</item>
+    </string-array>
+
+    <string-array name="P7">
+        <item>"เมืองสุพรรณบุรี"</item>
+        <item>"วัดปราสาททอง"</item>
+    </string-array>
+
+    <string-array name="P8">
+        <item>"เมือง"</item>
+        <item>"บ้านแพ้ว"</item>
+        <item>"กาหลง"</item>
+        <item>"แม่กลอง"</item>
+        <item>"นาขวาง"</item>
+    </string-array>
+
+    <string-array name="P9">
+        <item>"หัวหิน"</item>
+        <item>"ชะอำ</item>
+    </string-array>
+
+    <string-array name="P9">
+        <item>"ปากช่อง"</item>
+        <item>"สีคิ้ว</item>
+        <item>"หัวทะเล-บ้านสารภี"</item>
+        <item>"เฉลิมพระเกียรติ"</item>
+        <item>"จักราช"</item>
+        <item>"ชะอำ</item>
+    </string-array>
+
+    <string-array name="P10">
+        <item>"รังสิต"</item>
+        <item>"ลพบุรี</item>
+    </string-array>
+
+    <string-array name="P11">
+        <item>"เมืองสระบุรี"</item>
+        <item>"รังสิต"</item>
+        <item>"หมวกเหล็ก"</item>
+    </string-array>
+
+    <string-array name="P12">
+        <item>"สระแก้ว"</item>
+        <item>"อรัญประเทศ"</item>
+    </string-array>
+
+    <string-array name="P13">
+        <item>"จันทบุรี"</item>
+    </string-array>
+
+    <string-array name="P14">
+        <item>"สระแก้ว"</item>
+        <item>"อรัญประเทศ"</item>
+    </string-array>
+
+    <string-array name="P15">
+        <item>"สระแก้ว"</item>
+        <item>"อรัญประเทศ"</item>
+    </string-array>
+
+    <string-array name="time_start">
+        <item>"05:00"</item>
+        <item>"05:30"</item>
+        <item>"06:00"</item>
+        <item>"06:30"</item>
+        <item>"07:00"</item>
+        <item>"07:30"</item>
+        <item>"08:00"</item>
+        <item>"08:30"</item>
+        <item>"09:00"</item>
+        <item>"09:30"</item>
+        <item>"10:00"</item>
+        <item>"10:30"</item>
+        <item>"11:00"</item>
+        <item>"11:30"</item>
+        <item>"12:00"</item>
+        <item>"12:30"</item>
+        <item>"13:00"</item>
+        <item>"13:00"</item>
+        <item>"14:00"</item>
+        <item>"14:30"</item>
+        <item>"15:00"</item>
+        <item>"15:30"</item>
+        <item>"16:00"</item>
+        <item>"16:30"</item>
+        <item>"17:00"</item>
+        <item>"17:30"</item>
+        <item>"18:00"</item>
+        <item>"18:30"</item>
+        <item>"19:00"</item>
+        <item>"19:30"</item>
+        <item>"20:00"</item>
+        <item>"20:30"</item>
+        <item>"21:00"</item>
+        <item>"21:30"</item>
+        <item>"22:00"</item>
+        <item>"22:30"</item>
+        <item>"23:00"</item>
+        <item>"24:30"</item>
+        <item>"01:00"</item>
+        <item>"02:00"</item>
+    </string-array>
+
+    <string-array name="time_stop">
+        <item>"18:00"</item>
+        <item>"18:30"</item>
+        <item>"19:00"</item>
+        <item>"19:30"</item>
+        <item>"20:00"</item>
+        <item>"20:30"</item>
+        <item>"21:00"</item>
+        <item>"21:30"</item>
+        <item>"22:00"</item>
+        <item>"22:30"</item>
+        <item>"23:00"</item>
+        <item>"24:30"</item>
+        <item>"01:00"</item>
+        <item>"02:00"</item>
+
+    </string-array>
+</resources>
